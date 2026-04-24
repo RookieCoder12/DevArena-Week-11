@@ -137,4 +137,4 @@ pip install -r requirements.txt
 ```zsh
 jupyter notebook
 ```
-2. Open ```churn_prediction_pipeline.ipynb```.
+2. Open ```customer_segmentation.ipynb```.
